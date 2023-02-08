@@ -18,3 +18,7 @@
 - list item: - list item
 - bold text: ** bold text **
 - image: ![link](url to image)
+
+## GitHub
+
+GitHub is an online platform where you can store, share and collaborate on remote git repositories. With GitHub, the same codebase can be shared and edited across many collaborators.
